@@ -108,9 +108,10 @@ body {
     font-size: 1.5rem;
     padding: 21.5px 0;
     text-decoration: none;
-    color: var(--cor-secundaria);
+    color: var(--cor-hover);
     font-family: var(--fonte-secundaria);
-    border: 2px solid var(--cor-terciaria);
+    border: 4px solid var(--cor-terciaria);
+    background-color: var(--cor-secundaria);
 
 }
 
